@@ -143,7 +143,7 @@ a {
             rgba(0, 0, 0, 0.82) 45%,
             rgba(0, 0, 0, 0.35) 100%
         ),
-        url("imagens/churrasco-val.png");
+        url("churrasco-val.png");
    
     background-size: cover;
     background-position: center;
