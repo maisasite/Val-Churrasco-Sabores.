@@ -455,8 +455,8 @@ a {
             rgba(10, 10, 10, 0.95),
             rgba(10, 10, 10, 0.95)
         ),
-        url("imagens/arroz-val.png");
-
+        url("arroz-val.png");
+   
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
